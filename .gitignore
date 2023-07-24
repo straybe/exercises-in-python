@@ -1,0 +1,23 @@
+# Archivos generados por PyCharm
+.idea/
+*.iml
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Entorno virtual
+venv/
+
+# Archivos de configuración específicos de tu sistema
+config.ini
+settings.conf
+
+# Archivos de claves de acceso, tokens o contraseñas
+secrets.json
+
+# Archivos de registro
+*/log
+
+# Directorio de resultados o datos generados
+output/
